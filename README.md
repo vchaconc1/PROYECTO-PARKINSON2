@@ -7,7 +7,11 @@ En esta ocasión seremos parte del desarrollo de un producto capaz de acrecentar
 <img src="https://liberal.com.mx/wp-content/uploads/2017/04/FOTOPRINCIPAL-1.jpg" />
 [IMAGE1: Parkinson](https://liberal.com.mx/wp-content/uploads/2017/04/FOTOPRINCIPAL-1.jpg)
 
+La dopamina es una sustancia química importantes en el cerebro que es producida por las células nerviosas. Cuando las neuronas no producen la suficiente cantidad de esta sustancia, se produce un transtorno de movimiento que se denomina la [Enfermedad de Parkinson](https://medlineplus.gov/spanish/parkinsonsdisease.html).
 
+Los síntomas se muestran de manera ascendente comenzando con un ligero temblor en manos, piernas, madíbula y cara. A esto puede añadirse problemas de equilibrio y coordinación.
+
+Suele comenzar alrededor de los 60 años pero, en algunos casos, puede mostrar señales a una edad más temprana.
 
 ## LA ENFERMEDAD DEL PARKINSON - ALTERACIONES EN EL SISTEMA GLANDIAL
 <img src="https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2018/01/17/5a5f838c3be27.jpeg" />
@@ -23,6 +27,9 @@ Cuando la dopamina llega a los receptores D2 del estriado los inhibe y se pone e
  
 Podemos darnos cuenta las dos vías parten del putamen y terminan uniéndose el globo pálido interno y en la pars reticulata de la sustancia negra con la diferencia que una es activadora y la otra es inhibidora. La vía que desde la pars compacta de la sustancia negra va hacia el estriado y utiliza dopamina como neurotransmisor parece ejercer un efecto modulatorio sobre la actividad estriatal. Se ha propuesto que esta vía dopaminérgica nigroestriatal facilitaría la actividad en el circuito directo neurona sustancia p - dinorfina que expresan preferentemente el receptor D1 y la inhibiría en el indirecto neurona encefalinérgicas que expresan fundamentalmente el receptor D2
 La correcta realización de un movimiento preciso requiere del perfecto equilibrio entre ambos circuitos. Gracias a esto los impulsos que reciben en última instancia la corteza motora son muy finos y exactos podremos beber perfectamente y dibujar perfectamente la línea más fina.
+
+<a href="https://misionescuatro.com/wp-content/uploads/2018/04/parkinson-357x222.jpg"><img src="https://misionescuatro.com/wp-content/uploads/2018/04/parkinson-357x222.jpg" /></a>
+[IMAGE3: Manos temblorosas](https://misionescuatro.com/wp-content/uploads/2018/04/parkinson-357x222.jpg)
  
 PERO, ¿Y SI ESTE SISTEMA NO FUNCIONA CORRECTAMENTE?
  
@@ -30,26 +37,16 @@ El déficit de dopamina origina una hiperactividad de las neuronas del globo pá
 
 
 ## LA ENFERMEDAD DEL PARKINSON - DATOS
-<a href="https://misionescuatro.com/wp-content/uploads/2018/04/parkinson-357x222.jpg"><img src="https://misionescuatro.com/wp-content/uploads/2018/04/parkinson-357x222.jpg" /></a>
-[IMAGE1: Manos temblorosas](https://misionescuatro.com/wp-content/uploads/2018/04/parkinson-357x222.jpg)
 
-Según la Organizacion mundial de la Salud (OMS) el 1% de la población padece de esta enfermedad, es decir casi 300,000 personas, y la mayoría de afectados son adultos mayores. Se estima que unos 30,000 peruanos sufrirían de Parkinson y cada año se diagnostican entre 2,000 a 3,000 casos nuevos casos. . Además, solo en Lima habría 10,000 personas con esta enfermedad.
+
+Según la Organizacion mundial de la Salud (OMS) el 1% de la población padece de esta enfermedad, es decir casi 300,000 personas, y la mayoría de afectados son adultos mayores. Se estima, que unos 30,000 peruanos sufrirían de Parkinson y cada año se diagnostican entre 2,000 a 3,000 casos nuevos casos. Además, solo en Lima habría 10,000 personas con esta enfermedad.
 
 Por lo general los hombres son más afectados que las mujeres y suele presentarse con más frecuencia después de los 60 años de edad. No obstante, existe el Parkinson juvenil que puede presentarse desde los 20 años.
 
 Hay tres factores de riesgo clásicos para el desarrollo del Parkinson: la edad, la herencia y las mutaciones genéticas. Si se tiene más de 50 años y se ha tenido un familiar con esta enfermedad la probabilidad de tener la enfermedad es mayor al común de la gente, aunque hay casos de menores de 40 años con el mal, las mutaciones genéticas explican una minoría de los casos.
 
-Fuentes: 
-http://www.minsa.gob.pe/?op=51&nota=22627 
-https://www.efesalud.com/solidaridad-e-investigacion-ventanas-de-esperanza-contra-el-parkinson/
-
-
-
-
-
-You can use the [editor on GitHub](https://github.com/vchaconc1/vchacon/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Fuente1] (http://www.minsa.gob.pe/?op=51&nota=22627 )[Fuente1]
+(https://www.efesalud.com/solidaridad-e-investigacion-ventanas-de-esperanza-contra-el-parkinson/)
 
 ### GALERÍA DE VIDEOS
 
