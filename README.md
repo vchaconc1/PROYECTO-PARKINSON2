@@ -75,6 +75,31 @@ Un equipo de científicos del centro de Automática y Robótica del Consejo Supe
 <img src="https://rhbneuromad.files.wordpress.com/2014/04/861261.jpg?w=232&h=300" />
 [IMAGE6: Dispositivo textil](https://rhbneuromad.files.wordpress.com/2014/04/861261.jpg?w=232&h=300)
 
+<h1>TREMEND</h1>
+
+[TREMEND](https://rhbneuromad.wordpress.com/2014/12/15/1950/) es una muñequera que logra reducir hasta el 30% de los temblores producidos por el Parkinson. Este dispositivo fue desarrollado por la empresa EMO y el Instituto de Biomecánica de Valencia.
+
+Se puede describir como cómodo de dimenciones reducidas y funcional, y se basa en el uso de un amortiguador rotatorio que une dos piezas de tejido, una que cubre la mano y otra que cubre el antebrazo.
+
+<img src="http://e03-elmundo.uecdn.es/assets/multimedia/imagenes/2014/09/02/14096822335675.jpg" />
+[IMAGE7: TREMEND](http://e03-elmundo.uecdn.es/assets/multimedia/imagenes/2014/09/02/14096822335675.jpg)
+
+<h1>GyroGlove</h1>
+
+Es un [guante](https://rhbneuromad.wordpress.com/2017/01/25/gyroglove-guante-wearable-que-reduce-los-temblores-del-parkinson/) que permite reducir hasta 80% del temblor de manos, este contiene sensores y giroscopios en la parte superior de la mano que permite contrarrestar los temblores. Se estima un comercializacion pronta con un valor de 528-791 euros.
+Un pequeño circuito impreso controla la orientación mediante una plataforma giratoria, resistiendo de esta forma a los temblores mientras el giroscopio intenta mantenerse rígido.
+
+<img src="https://i2.wp.com/www.mediatrends.es/wp-content/uploads/2016/01/guanteokok-750x500.jpg" />
+[IMAGE8: GyroGlove](https://i2.wp.com/www.mediatrends.es/wp-content/uploads/2016/01/guanteokok-750x500.jpg)
+
+<h1>Gyenno Spoon</h1>
+
+Es un [dispositivo](https://rhbneuromad.wordpress.com/2017/04/21/gyenno-spoon-innovadora-cuchara-para-pacientes-con-e-parkinson/) con presición del 85% de movimientos descontrolados a causa de los temblores en extremidades superiores. LLeva un sistema operativo que permite almacenar datos de frecuencia de los temblores del paciente y su batría puede durar 180 minutos.
+
+
+<img src="https://i0.wp.com/www.gyenno.com/before/image/1008.png" />
+[IMAGE9:Gyenno Spoon](https://i0.wp.com/www.gyenno.com/before/image/1008.png)
+
 ### GALERÍA DE VIDEOS
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
