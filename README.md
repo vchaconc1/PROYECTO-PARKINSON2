@@ -4,6 +4,7 @@ Como integrantes de la carrera conjunta de la universidades Pontificia Universid
 En esta ocasión seremos parte del desarrollo de un producto capaz de acrecentar la confianza de personas que padecen de Parkinson, ofreciendoles una mejorar en sus que haceres diarios.
 
 ## LA ENFERMEDAD DEL PARKINSON 1
+<a href="https://misionescuatro.com/wp-content/uploads/2018/04/parkinson-357x222.jpg"><img src="https://misionescuatro.com/wp-content/uploads/2018/04/parkinson-357x222.jpg" /></a>
 Seguna la Organizacion mundial de la Salud (OMS) el 1% de la población padece de esta enfermedad, es decir casi 300,000 personas, y la mayoría de afectados son adultos mayores. Se estima que unos 30,000 peruanos sufrirían de Parkinson y cada año se diagnostican entre 2,000 a 3,000 casos nuevos casos. . Además, solo en Lima habría 10,000 personas con esta enfermedad.
 
 Por lo general los hombres son más afectados que las mujeres y suele presentarse con más frecuencia después de los 60 años de edad. No obstante, existe el Parkinson juvenil que puede presentarse desde los 20 años.
@@ -24,6 +25,7 @@ https://www.efesalud.com/solidaridad-e-investigacion-ventanas-de-esperanza-contr
 
 
 ## LA ENFERMEDAD DEL PARKINSON 2
+<a https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2018/01/17/5a5f838c3be27.jpeg"><img src="https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2018/01/17/5a5f838c3be27.jpeg" /></a>
 Como integrantes de la carrera conjunta de la universidades Pontificia Universidad Católica del Perú y Universidad Peruana Cayetano Heredia, trabajamos en proyectos con finalidad de mejorar la calidad de vida de personas en el país. 
 
 En esta ocasión seremos parte del desarrollo de un producto capaz de acrecentar la confianza de personas que padecen de Parkinson, ofreciendoles una mejorar en sus que haceres diarios.
