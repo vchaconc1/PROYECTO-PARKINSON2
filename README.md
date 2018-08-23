@@ -1,10 +1,32 @@
-## Welcome to GitHub Pages
+## NOSOTROS
+Como integrantes de la carrera conjunta de la universidades Pontificia Universidad Católica del Perú y Universidad Peruana Cayetano Heredia, trabajamos en proyectos con finalidad de mejorar la calidad de vida de personas en el país. 
+
+En esta ocasión seremos parte del desarrollo de un producto capaz de acrecentar la confianza de personas que padecen de Parkinson, ofreciendoles una mejorar en sus que haceres diarios.
+
+INTEGRANTES:
+- Viviana Chacón Cardenas
+
+## LA ENFERMEDAD DEL PARKINSON
+Como integrantes de la carrera conjunta de la universidades Pontificia Universidad Católica del Perú y Universidad Peruana Cayetano Heredia, trabajamos en proyectos con finalidad de mejorar la calidad de vida de personas en el país. 
+
+En esta ocasión seremos parte del desarrollo de un producto capaz de acrecentar la confianza de personas que padecen de Parkinson, ofreciendoles una mejorar en sus que haceres diarios.
+
+INTEGRANTES:
+- Viviana Chacón Cardenas
+
+## LA ENFERMEDAD DEL PARKINSON
+Como integrantes de la carrera conjunta de la universidades Pontificia Universidad Católica del Perú y Universidad Peruana Cayetano Heredia, trabajamos en proyectos con finalidad de mejorar la calidad de vida de personas en el país. 
+
+En esta ocasión seremos parte del desarrollo de un producto capaz de acrecentar la confianza de personas que padecen de Parkinson, ofreciendoles una mejorar en sus que haceres diarios.
+
+INTEGRANTES:
+- Viviana Chacón Cardenas
 
 You can use the [editor on GitHub](https://github.com/vchaconc1/vchacon/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### GALERÍA DE VIDEOS
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
