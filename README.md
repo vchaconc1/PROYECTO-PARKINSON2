@@ -50,6 +50,17 @@ Hay tres factores de riesgo clásicos para el desarrollo del Parkinson: la edad,
 
 ## HISTORIAL DE CREACIONES PARA MEJORAR LA CONDICIÓN DEL PACIENTE
 
+En el Perú existen tratamientos para poder sobrellevar esta enfermedad los más comunes son: 
+Uso de fármacos: Tratamientos usados para reemplazar la dopamina en el cerebro, como por ejemplo Sifrol ER(Pramipexol), además de llevar terapias de rehabilitación.
+
+Cirugías: Estas operaciones se llevan a cabo cuando la enfermedad está en una fase muy avanzada llegando a perjudicar de manera significativa al paciente. Este proceso consiste en la colocación de electrodos a nivel cerebral, cuyo objetivo es la modulación eléctrica de los núcleos de las neuronas que se alteran en el curso de la enfermedad.
+
+Terapias de rehabilitación: Serie de ejercicio que estimulan la zona afectada evitando así que la enfermedad empeore y la atrofiación de los músculos.
+
+Sin embargo en este caso nos centraremos en un dispositivo biomedico capaz de mejorar la calidad de vida del paciente que padece de Parkinson.
+
+Actualmente, existen varias universidades e invastigadores desarrollando dispositivos con esta finalidad de los que se puede resaltar los siguientes:
+
 <h1>GRACE</h1>
 
 En Chile se ha desarrollado un dispositivo biomédico ([GRACE](http://www.getgrace.net/)) que es capaz de eliminar los temblores  esenciales y también los producidos por el Parkinson.
@@ -61,9 +72,10 @@ El proceso de colocación del dispositivo consiste en poner los electrodos en ci
 
 <h1>Programa BBC2 The Big Life Fix</h1>
 
-Se trata de un proyecto de Microsoft Research para el programa de la BBC2 The Big Life Fix. Liderado por Haiyan Zhang, su Directora de Innovación, han creado una [pulsera para contrarrestar los temblores de las manos](https://clipset.20minutos.es/ingenieros-crean-pulsera-ayuda-enfermos-parkinson/). Se basa en pequeños motores que emiten vibraciones contrarias a los movimientos del brazo. Así, contrarrestando en la medida de lo posible la fuerza ejercida, los afectados podrían volver a escribir sin más ayuda.
-La primera persona en usarlo ha sido Emma Lawton, una ilustradora y escritora de 33 años que le fue diagnosticado Parkinson a los 29. Su enfermedad ya no le permite dibujar o escribir como antes, aunque ha intentado crear soluciones mecánicas, no le han servido o siente que agravan su problema. Pero gracias a esta pulsera en su muñeca, no mucho más grande de un smartwatch, puede volver a escribir con muy buena calidad.
-Se trata de un concepto, no de un producto final que vaya a venderse. La idea y el desarrollo está en las manos de Microsoft, que podría ponerla a disposición de alguna empresa y comercializarla.
+En Cambridge, un grupo de investigadores de Microsoft Research liderado por Haiyan Zhang, su Directora de Innovación, realizó un proyecto para el programa de la BBC2 The Big Life Fix. Este proyecto consistió en la creación de una [pulsera para contrarrestar los temblores de las manos](https://clipset.20minutos.es/ingenieros-crean-pulsera-ayuda-enfermos-parkinson/) conformada por pequeños motores que emiten vibraciones contrarias a los movimientos del brazo logrando contrarrestar en la medida de lo posible la fuerza ejercida; cesando así los temblores.
+La primera persona en usarlo fue Emma Lawton, ilustradora y escritora de 33 años que le fue diagnosticado Parkinson a los 29, quien durante años investigó y utilizó distintos artefactos que le ofrecían una solución mecánica para su enfermedad aunque ninguno funcionó. No obstante, esta pulsera en su muñeca fue la que le permitió tener la posibilidad de volver a escribir con buena calidad como antes.
+A pesar de no ser un producto final que vaya a venderse; la idea y el desarrollo están en las manos de Microsoft que al ponerla a disposición de alguna empresa, esta podría comercializar la pulsera.
+
 
 <img src="https://i0.wp.com/clipset.20minutos.es/wp-content/uploads/2016/12/emma-pulsera-parkinson.jpg?resize=768%2C436&ssl=1" />
 [IMAGE5: Pulsera que contrarresta temblores](https://i0.wp.com/clipset.20minutos.es/wp-content/uploads/2016/12/emma-pulsera-parkinson.jpg?resize=768%2C436&ssl=1)
@@ -100,6 +112,10 @@ Es un [dispositivo](https://rhbneuromad.wordpress.com/2017/04/21/gyenno-spoon-in
 <img src="https://i0.wp.com/www.gyenno.com/before/image/1008.png" />
 [IMAGE9:Gyenno Spoon](https://i0.wp.com/www.gyenno.com/before/image/1008.png)
 
+## PROYECTO
+
+Los estadío de parkinson que nosotros hemos escogido para centrarnos es el tercero y el cuarto porque según un informe certificado por el ministerio de educación, política social y deporte Español, en dichas etapas es cuando más empiezan a perder la independencia en especial la del cuarto estadío en la que citando el estudio dice: `` Con respecto a la alimentación el afectado en esta etapa es ya dependiente: precisa ayuda para el acto de alimentarse y es incapaz de preparar toda su alimentación por sí mismo`` esta entre otras de las características del cuarto estadio como: la dificultad para caminar, dificultad en la comunicación, síntomas de disfunción del sistema nervioso autónomo, entre otras que ya evidencian que han perdido casi por completo la independencia y en la que nosotros podríamos crear un dispositivo para poderle hacer mas facil el dia a dia a cualquier paciente que sufre de parkinson.
+
 ### GALERÍA DE VIDEOS
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -127,12 +143,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vchaconc1/vchacon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-En el Perú existen tratamientos para poder sobrellevar esta enfermedad los más comunes son: 
-Uso de fármacos: Tratamientos usados para reemplazar la dopamina en el cerebro, como por ejemplo Sifrol ER(Pramipexol), además de llevar terapias de rehabilitación.
 
-Cirugías: Estas operaciones se llevan a cabo cuando la enfermedad está en una fase muy avanzada llegando a perjudicar de manera significativa al paciente. Este proceso consiste en la colocación de electrodos a nivel cerebral, cuyo objetivo es la modulación eléctrica de los núcleos de las neuronas que se alteran en el curso de la enfermedad.
-
-Terapias de rehabilitación: Serie de ejercicio que estimulan la zona afectada evitando así que la enfermedad empeore y la atrofiación de los músculos.
 
 ### INTEGRANTES
 - Viviana Chacón Cardenas
