@@ -1,7 +1,7 @@
 ## NOSOTROS
 Como integrantes de la carrera conjunta de la universidades Pontificia Universidad Católica del Perú y Universidad Peruana Cayetano Heredia, trabajamos en proyectos con finalidad de mejorar la calidad de vida de personas en el país. 
 
-En esta ocasión seremos parte del desarrollo de un producto capaz de acrecentar la confianza de personas que padecen de Parkinson, ofreciendoles una mejorar en sus que haceres diarios.
+En esta ocasión seremos parte del desarrollo de un producto capaz de acrecentar la confianza de personas que padecen de Parkinson, ofreciendoles una mejorar en sus quehaceres diarios.
 
 ## LA ENFERMEDAD DEL PARKINSON - QUE ES
 <img src="https://liberal.com.mx/wp-content/uploads/2017/04/FOTOPRINCIPAL-1.jpg" />
