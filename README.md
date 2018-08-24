@@ -1,4 +1,9 @@
 ## NOSOTROS
+
+<a href="/" class="btn">Inicio</a>
+        <a href="/PROYECTO-PARKINSON/Semana2/semana_2.html" class="btn">Semena2</a>
+       
+        
 Como integrantes de la carrera conjunta de la universidades Pontificia Universidad Católica del Perú y Universidad Peruana Cayetano Heredia, trabajamos en proyectos con finalidad de mejorar la calidad de vida de personas en el país. 
 
 En esta ocasión seremos parte del desarrollo de un producto capaz de acrecentar la confianza de personas que padecen de Parkinson, ofreciendoles una mejorar en sus quehaceres diarios.
