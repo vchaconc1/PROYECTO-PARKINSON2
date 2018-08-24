@@ -106,7 +106,7 @@ Un pequeño circuito impreso controla la orientación mediante una plataforma gi
 
 - Gyenno Spoon
 
-Es un [dispositivo](https://rhbneuromad.wordpress.com/2017/04/21/gyenno-spoon-innovadora-cuchara-para-pacientes-con-e-parkinson/) con presición del 85% de movimientos descontrolados a causa de los temblores en extremidades superiores. LLeva un sistema operativo que permite almacenar datos de frecuencia de los temblores del paciente y su batría puede durar 180 minutos.
+Es un [dispositivo](https://rhbneuromad.wordpress.com/2017/04/21/gyenno-spoon-innovadora-cuchara-para-pacientes-con-e-parkinson/) con presición del 85% de movimientos descontrolados a causa de los temblores en extremidades superiores. LLeva un sistema operativo que permite almacenar datos de frecuencia de los temblores del paciente y su batería puede durar 180 minutos.
 
 
 <img src="https://i0.wp.com/www.gyenno.com/before/image/1008.png" />
